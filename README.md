@@ -20,7 +20,7 @@ I am a curious person, passionate about learning new technologies and continuous
 I am always open to new challenges, projects, and opportunities to learn, contribute, and grow in the technology field.
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="365" alt="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ6cHNscDhyYnZyd280aDZ2eGFvb2FsOTBjcWtmbGV1eHlibmE2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oEXpKfMSx5WXC/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
